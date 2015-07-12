@@ -30,13 +30,6 @@ Step 5.
 
 Success!
 
-> authToken:
-> \----------------------------------------------------
->
-> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
->
-> \----------------------------------------------------
-
 ## Screenshot ##
 
 ![GetLineApiAuthToken Screenshot](http://i.imgur.com/IFMyYcy.png "GetLineApiAuthToken Screenshot")
