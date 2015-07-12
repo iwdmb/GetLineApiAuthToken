@@ -32,7 +32,9 @@ Success!
 
 > authToken:
 > \----------------------------------------------------
+>
 > XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+>
 > \----------------------------------------------------
 
 ## Screenshot ##
