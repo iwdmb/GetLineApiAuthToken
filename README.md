@@ -1,10 +1,10 @@
-### GetLineApiAuthToken ###
+## GetLineApiAuthToken ##
 
 This will help you get LINE API authentication token(authToken).
 
 Help you solve "Exception: Code is removed because of the request of LINE corporation"、"can't login" problem.
 
-### How to use it? ###
+## How to use it? ##
 
 Step 1.
 
@@ -27,10 +27,10 @@ Step 5.
 Success!
 
 > authToken:
-> ----------------------------------------------------
+> \----------------------------------------------------
 > XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-> ----------------------------------------------------
+> \----------------------------------------------------
 
-### Screenshot ###
+## Screenshot ##
 
 ![GetLineApiAuthToken Screenshot](http://i.imgur.com/IFMyYcy.png "GetLineApiAuthToken Screenshot")
