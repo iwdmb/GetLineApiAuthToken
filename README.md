@@ -8,11 +8,15 @@ Help you solve "Exception: Code is removed because of the request of LINE corpor
 
 Step 1.
 
-> git clone https://github.com/bmiwdmb/GetLineApiAuthToken
+```
+git clone https://github.com/bmiwdmb/GetLineApiAuthToken
+```
 
 Step 2.
 
-> python GetLineApiAuthToken
+```
+python GetLineApiAuthToken
+```
 
 Step 3.
 
