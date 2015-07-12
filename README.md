@@ -8,7 +8,7 @@ Help you solve "Exception: Code is removed because of the request of LINE corpor
 
 Step 1.
 
-> git clone  
+> git clone https://github.com/bmiwdmb/GetLineApiAuthToken
 
 Step 2.
 
@@ -30,3 +30,7 @@ Success!
 > ----------------------------------------------------
 > XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 > ----------------------------------------------------
+
+### Screenshot ###
+
+![GetLineApiAuthToken Screenshot](http://i.imgur.com/IFMyYcy.png "GetLineApiAuthToken Screenshot")
