@@ -33,3 +33,11 @@ Success!
 ## Screenshot ##
 
 ![GetLineApiAuthToken Screenshot](http://i.imgur.com/IFMyYcy.png "GetLineApiAuthToken Screenshot")
+
+## Thanks ##
+
+GetLineApiAuthToken base on [carpedm20/LINE](https://github.com/carpedm20/LINE).
+
+## License ##
+
+BSD License.
