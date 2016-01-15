@@ -17,7 +17,4 @@ print;
 
 divider = ("-" * len(authToken));
 
-print("authToken:");
-print(divider);
-print authToken;
-print(divider);
+print("authToken:\n{0}\n{1}\n{2}".format(divider, authToken, divider));
