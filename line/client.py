@@ -260,7 +260,7 @@ class LineClient(object):
     LINE_SESSION_NAVER_URL = LINE_DOMAIN + "/authct/v1/keys/naver"
 
     ip          = "127.0.0.1"
-    version     = "3.7.0"
+    version     = "5.9.2"
     com_name    = ""
 
     revision = 0
@@ -272,7 +272,7 @@ class LineClient(object):
     _session = requests.session()
     _headers = {}
 
-    def __init__(self, id=None, password=None, authToken=None, is_mac=True, com_name="carpedm20"):
+    def __init__(self, id=None, password=None, authToken=None, is_mac=True, com_name="GetLineApiAuthToken"):
         """Initialize LINE instance with provided information
 
         :param id: `NAVER id` or `LINE email`
